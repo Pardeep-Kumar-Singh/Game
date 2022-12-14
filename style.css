@@ -151,8 +151,7 @@ nav ul li.btn:hover a{
     flex-flow: column;
     color: #f5dca8;
     margin-right: 25px;
-    /* margin-top: -50px; */
-    font-size: 24px;
+    font-size: 25px;
     text-decoration: none;
 }
 .content .social a:hover{
